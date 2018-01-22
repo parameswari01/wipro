@@ -1,0 +1,6 @@
+<html>
+<head>
+<title> MyTest Page</title>
+</head>
+<body> <h2> Webapp services Staging server </h2></body>
+</html>
